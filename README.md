@@ -40,7 +40,9 @@ See our paper (linked below) for more details and extensive resources.
 
 ---
 
-## Examples
+## Code Examples
+
+A full running example can be found [here](https://github.com/amitshakarchy/muscle-formation-prediction/tree/master/Example)
 
 ### Single cell tracks registration
 To reproduce our single cell registration, you can use the following example:
